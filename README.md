@@ -1,73 +1,67 @@
-## Welcome to My GitHub! 👋
+# Hi there, I'm Teja Yalamanchi 👋
 
-Hi there! I'm Yalamanchi Teja, a Data Engineer / Software Engineer passionate about building scalable data processing applications and distributed systems. I enjoy working with big data technologies to develop efficient ETL pipelines, optimize large-scale workflows, and solve real-world data engineering challenges.
+## About Me
+
+Data Engineer / Software Engineer passionate about building scalable ETL pipelines, distributed data processing systems, and enterprise data engineering solutions. Experienced in working with large-scale datasets, optimizing Spark workflows, and developing automated data pipelines using modern big data technologies.
+
+Currently working at :contentReference[oaicite:0]{index=0} on the **Head Count Analytics (HCA)** platform with data sourced from **PDL (People Data Labs)**.
 
 ---
 
 ## Skills
 
 ### Programming Languages
-- Scala
-- SQL
-- C++
-- Python
+`Scala` `SQL` `C++` `Python`
 
 ### Big Data & Data Engineering
-- Apache Spark
-- Databricks
-- Kafka
-- Hive
-- ETL Pipelines
-- CDC (Change Data Capture)
+`Apache Spark` `Databricks` `Kafka` `Hive` `ETL Pipelines` `CDC`
 
 ### Cloud & Infrastructure
-- AWS (S3, EC2, IAM, Lambda, SQS)
-- Kubernetes
-- Airflow
+`AWS` `S3` `EC2` `IAM` `Lambda` `SQS` `Kubernetes` `Airflow`
 
 ### Databases & Warehouses
-- PostgreSQL
-- MySQL
-- Snowflake
+`PostgreSQL` `MySQL` `Snowflake`
 
 ### Monitoring & Tools
-- Kibana
-- Grafana
-- Git & GitHub
-- IntelliJ IDEA
-- Postman
+`Kibana` `Grafana` `Git` `GitHub` `IntelliJ IDEA` `Postman`
 
 ---
 
 ## Experience
 
-Currently working as a Software Technical Apprentice at :contentReference[oaicite:0]{index=0}, contributing to enterprise-scale data engineering workflows for the **Head Count Analytics (HCA)** platform using Scala, Spark, Databricks, Kafka, and AWS technologies.
+### Software Technical Apprentice — :contentReference[oaicite:1]{index=1}
 
-Worked on:
-- Large-scale data processing workflows handling 40M–147M records
-- Databricks job optimization reducing execution time by over 50%
-- Kafka-based queue table workflows
-- Kubernetes Cron Jobs and Airflow DAGs
-- Kibana monitoring and alerting solutions
-- AWS S3, SFTP, and downstream data integrations
+- Developed scalable data engineering workflows using Scala, Apache Spark, Databricks, Kafka, PostgreSQL, and AWS for enterprise-level processing systems handling millions of records.
+
+- Built and optimized Databricks queue table jobs processing nearly 147M records, reducing execution time by more than 50% from 26 hours to 12.5 hours.
+
+- Engineered queue table processing workflows for Next Employer and Previous Employer features, processing 40M records with delta identification logic for incremental data loading.
+
+- Created Kubernetes Cron Jobs and N6 processing jobs to automate movement of data from queue tables to the N6 Dictionary platform, enabling downstream integrations with GCP, Snowflake, and XpressFeed.
+
+- Implemented Kibana Watcher alerts for HCA ProLink pipelines to trigger automated email notifications for failed records, improving production monitoring and faster issue resolution.
+
+- Created custom D6 jobs to move vendor backfill files from SFTP locations to AWS S3 buckets for downstream SQS-based processing workflows.
+
+- Built automated deletion logic for N6HeadCountByTitle tables during entity mapping changes, reducing nearly 30% of manual review impact and improving data consistency.
+
+- Handled end-to-end development of the feature “HCA Data Additions - Add 12M Growth Rates to Territory” by enhancing existing data processing workflows and downstream integrations.
 
 ---
 
 ## Projects
 
-### 📚 Data Engineering & Analytics Projects
+### 📊 Amazon Sales Data Analysis
+- Analyzed Amazon sales data using SQL to solve business problems and generate actionable insights.
 
-- [Amazon Sales Data Analysis](https://github.com/tejayalamanchi/Amazon_Sales_Data_analysis/tree/main)
-  - Performed SQL-based sales analysis to solve business problems and generate insights.
+### 🏥 Healthcare Disease Prediction using PySpark
+- Built scalable healthcare analytics workflows using PySpark for distributed healthcare data processing.
 
-- Healthcare Disease Prediction using PySpark
-  - Built scalable healthcare analytics workflows using PySpark for distributed data processing.
+### 🎓 Smart Attendance System using Face Recognition
+- Developed an AI-based attendance tracking system using machine learning and computer vision techniques.
 
-- Smart Attendance System using Face Recognition
-  - Developed an AI-based attendance tracking system using machine learning and computer vision.
-
-- Restaurant Website Deployment using Kubernetes
-  - Containerized and deployed a full-stack website using Docker and Kubernetes.
+### 🍽️ Restaurant Website Deployment using Kubernetes
+- Containerized and deployed a full-stack restaurant website using Docker and Kubernetes.
 
 ---
 
