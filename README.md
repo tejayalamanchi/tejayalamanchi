@@ -29,7 +29,7 @@ Currently working at :contentReference[oaicite:0]{index=0} on the **Head Count A
 
 ## Experience
 
-### Software Technical Apprentice — :contentReference[oaicite:1]{index=1}
+### Software Technical Apprentice | S&P Global
 
 - Developed scalable data engineering workflows using Scala, Apache Spark, Databricks, Kafka, PostgreSQL, and AWS for enterprise-level processing systems handling millions of records.
 
