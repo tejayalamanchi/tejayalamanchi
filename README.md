@@ -4,7 +4,7 @@
 
 Data Engineer / Software Engineer passionate about building scalable ETL pipelines, distributed data processing systems, and enterprise data engineering solutions. Experienced in working with large-scale datasets, optimizing Spark workflows, and developing automated data pipelines using modern big data technologies.
 
-Currently working at :contentReference[oaicite:0]{index=0} on the **Head Count Analytics (HCA)** platform with data sourced from **PDL (People Data Labs)**.
+Currently working at S&P Global on the **Head Count Analytics (HCA) Project**  with data sourced from **PDL (People Data Labs)**.
 
 ---
 
